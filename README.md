@@ -70,4 +70,7 @@ Monitoramento de chão de fábrica para identificação ágil de desvios e garga
 
 ## 👨‍💻 Autor
 Desenvolvido por **Mateus Ferreira**. 
-Se este projeto te inspirou, sinta-se à vontade para se conectar comigo no LinkedIn!
+Se este projeto te inspirou, sinta-se à vontade para se conectar comigo no LinkedIn! <p>
+  <a href="https://www.linkedin.com/in/mateus-ferreira-data-analytics" target="_blank">
+    <img align="center" alt="LinkedIn" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
+  </a>
