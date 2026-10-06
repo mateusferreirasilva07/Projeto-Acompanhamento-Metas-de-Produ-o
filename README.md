@@ -34,7 +34,7 @@ Monitoramento macro do ritmo de produção anual contra metas projetadas.
 ## 2️⃣ Segmentação Dinâmica e Navegação Fluida
 Detalhamento operacional direto na ponta para dar autonomia aos gestores e supervisores de turno.
 - **Filtros Multi-Nível:** Segmentação rápida por máquina específica, tipo de produto fabricado e turno de trabalho (T1, T2, T3).
-- **Recálculo Instantâneo:** Todos os KPIs reagem automaticamente à seleção dos filtros[cite: 5].
+- **Recálculo Instantâneo:** Todos os KPIs reagem automaticamente à seleção dos filtros.
 - **UX / Tooltip Guiado:** Botão com indicação direta (*"Clique para Visão Mensal"*) para mudar o contexto sem poluir a interface.
 
 <p align="center">
